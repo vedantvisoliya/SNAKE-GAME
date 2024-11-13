@@ -17,7 +17,7 @@ at that instant.
 
 HOW WE CAN INSTALL IT?
 
-Download the repositary zip by clicking on '</code>' icon in repositary.
+Download the repositary zip by clicking on <> code icon in repositary.
 
 After unzipping the file, you will find main.exe, run main.exe file.
 
